@@ -5,7 +5,7 @@ import { PokemonsContainer } from './containers/PokemonsContainer'
 
 export function App() {
   const client = new ApolloClient({
-    url: 'https://graphql-pokemon.now.sh',
+    uri: 'https://graphql-pokemon.now.sh',
   })
 
   return (
