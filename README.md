@@ -40,9 +40,3 @@ How will we we be tackling the work?
 - Creating our components
 - Styling our application
 - & a bunch of challenges
-
-test
-test 2
-test 3
-test 4
-test 5
